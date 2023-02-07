@@ -1,13 +1,17 @@
-# Проект: Путешествие по России
+# Russian travel
 
-**Интро**
+**Intro**
 
-Это проект о путешествиях по России.
-В нем реализована адаптивная вёрстка, а также технология grid.
+My second learning project for Yandex Practicum.  
+This project is full of beautiful images from different regions of Russia. Enjoy it! 
 
-**Картинки**
+**Technologies:**
 
-В проекте много красивых фотографий, сделанных в разных уголках России. На него просто приятно смотреть. 
+- HTML + CSS;
+- Media queries;  
+- Grid;
+- Flexbox;
+- BEM nested.
 
-https://hryushek.github.io/russian-travel/index.html
-Enjoy!
+https://hryushek.github.io/russian-travel/index.html  
+Russian language.
