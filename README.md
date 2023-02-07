@@ -13,5 +13,5 @@ This project is full of beautiful images from different regions of Russia. Enjoy
 - Flexbox;
 - BEM nested.
 
-https://hryushek.github.io/russian-travel/index.html  
+[See the project](https://hryushek.github.io/russian-travel/index.html).  
 Russian language.
